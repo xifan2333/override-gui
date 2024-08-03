@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"vite-plugin-copy": "^0.1.6"
+	}
+}
